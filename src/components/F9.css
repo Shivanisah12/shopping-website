@@ -1,0 +1,42 @@
+
+.l-9{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.i-9{
+    margin-top: 10px;
+    font-size: 40px;
+}
+.l-9 h6{
+    font-weight: bold;
+    margin-bottom: 18px;
+}
+
+.l-9 li{
+    list-style-type: none;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+.l-9 li:hover{
+    text-decoration: underline;
+
+}
+.ls-9{
+    display: flex;
+ margin-left: 300px;
+ list-style-type: none;
+}
+.ls-9 h6{
+    margin-top: 60px;
+    font-weight: bold;
+    margin-bottom: 18px;
+}
+.ls-9 li{
+    list-style-type: none;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+.ls2-9{
+    margin-left: 145px;
+}

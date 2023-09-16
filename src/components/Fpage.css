@@ -1,0 +1,94 @@
+.main{
+    background-color: rgb(8, 4, 4);    
+    height: 650px;
+    margin-top: 70px;
+}
+.main h1{
+    color: white;
+    font-size: 3.75em;
+    line-height: 1.2;
+    font-weight: bold;
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    text-align: center;
+    margin: 0; 
+    padding: 0;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+   margin-left: -406px;
+   inline-size: 783px;
+   overflow: hidden;
+}
+.mail::placeholder{
+    padding-left: 12px;
+}
+.main p{
+    color: #d2d5d9;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 60%;
+    left: 30%;
+    font-size: 20px;
+}
+.email{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 70%;
+    left: 40%;
+}
+.mail{
+    height: 50px;
+    width: 300px;
+    border-radius: 5px;
+    margin-left: -100px;
+    border: none;
+}
+
+.btn-m{
+    height: 50px;
+    width: 130px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 10px;
+    background-color: rgb(202, 245, 137); 
+    font-weight: bold;
+}
+
+.image1 img {
+    margin-top: 37% ;
+    margin-left: 70px;
+    width: 250px;
+    height: 245px;
+}
+/* .img1{
+    height: 122px;
+    margin-top: 37%;
+    width: 244px;
+    margin-left: 118px;
+    border-radius: 20px;
+}
+.img2{
+    height: 122px;
+    width: 244px;
+    margin-top: 37%;
+    margin-left: 28px;
+    border-radius: 20px;
+}
+.img3{
+    height: 122px;
+    width: 344px;
+    margin-top: 37%;
+    margin-left: 28px;
+    border-radius: 20px;
+}
+.img4{
+    margin-top: 37%;
+    width: 244px;
+    height: 122px;
+    margin-left: 28px;
+    border-radius: 20px;
+} */

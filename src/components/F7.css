@@ -1,0 +1,68 @@
+.main-7{
+    background-color: rgb(249, 242, 234);
+    height: 1400px;
+    margin-top: 70px;
+}
+.page-7 h1{
+        font-weight:bold ;
+        margin-left: 120px;
+}
+.page-7 .p{
+    margin-top: 60px;
+    display: flex;
+    margin-left: 115px;
+}
+.p-2{
+    margin-top: -10px;
+    margin-left: 70px;
+}
+.image img{
+    margin-top: 25px;
+    margin-left: 65px !important;
+    width: 260px !important;
+    height: 340px !important;
+}
+.n-page{
+    margin-top: 180px !important;
+    margin-left: 270px !important;
+}
+
+.n-page h1{
+    margin-left: 180px;
+    font-weight: bold;
+    margin-bottom: 60px;
+}
+.line h5{
+    font-weight: 450;
+    color: black;
+}
+.hr{
+    width: 800px;
+}
+.i1{
+    margin-left: 550px;
+}
+.i2{
+    margin-left: 455px;
+}
+.i3{
+    margin-left: 780px;
+}
+.i4{
+    margin-left: 327px;
+}
+.i5{
+    margin-left: 295px;
+}
+.i6{
+    margin-left: 347px;
+}
+.i7{
+    margin-left: 430px;
+}
+.i8{
+    margin-left: 465px;
+}
+.i9{
+    margin-left: 448px;
+}

@@ -1,0 +1,38 @@
+.page-3 {
+    margin-top: 280px;
+    width: 450px;
+    float: right;
+    margin-right: 150px;
+}
+
+.page-3 h1 {
+    font-weight: 400;
+    color: black;
+    margin-bottom: 30px;
+}
+
+.page-3 h6 {
+    margin-bottom: 20px;
+    font-weight: 650;
+    color: rgb(15, 1, 1);
+}
+
+.page-3 span {
+    color: green;
+    text-decoration: underline;
+}
+
+.page-3 button {
+    border: none;
+    background-color: transparent;
+    color: green;
+    text-decoration: underline;
+    font-weight: bold;
+
+}
+
+.main-3 img {
+    margin-top: 330px;
+    margin-left: 70px;
+    height: 400px;
+}

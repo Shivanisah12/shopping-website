@@ -1,0 +1,35 @@
+.main-p{
+  background-color: black;
+  color: white;
+}
+.main-5{
+  margin-top: 150px;
+    height: 300px;
+    /* margin-top: 130px; */
+}
+.page-5{
+   
+  margin-left: 94px;
+
+}
+.h1-p{
+  font-weight: bold;
+  font-size: 3em;
+}
+.page-5 h5{
+  margin-top: 20px;
+  font-weight: lighter;
+}
+.page-5 button{
+  margin-top: 20px;
+  height: 50px;
+  width: 130px;
+  border-radius: 5px;
+  border: none;
+  margin-left: 10px;
+  background-color: rgb(202, 245, 137); 
+  font-weight: bold;
+}
+.page-5 button:hover{
+  background-color: rgb(135, 199, 41);
+}

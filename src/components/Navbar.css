@@ -1,0 +1,85 @@
+.container {
+    position: fixed;
+    top: 0;
+    background-color: white;
+    height: 10vh;
+    width: 100%;
+    z-index: 20;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav h1 {
+    margin-left: 88px;
+    margin-top: 13px;
+    font-size: 35px;
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+}
+
+.nav_list {
+    margin-top: 20px;
+    margin-left: -396px;
+    font-weight: inherit;
+    cursor: pointer;
+    font-size: 17px;
+}
+
+.nav_list ul li {
+    display: flex;
+    justify-content: space-around;
+    padding-left: 25px;
+    font-weight: 400;
+    width: auto;
+    float: left;
+    list-style-type: none;
+}
+
+.nav_list li:hover {
+    text-decoration: underline;
+}
+
+.nav_list span {
+    margin-left: 4px;
+}
+
+.btn {
+    display: flex;
+
+}
+
+.btn1 {
+    font-size: 17px;
+    background-color: transparent;
+    border: none;
+    margin-right: 30px;
+
+}
+
+.btn1:hover {
+    text-decoration: underline;
+}
+
+.btn2 {
+    margin-right: -143px;
+    color: white;
+    border-radius: 50px;
+    width: 150px;
+    font-weight: bold;
+    border: none;
+    background: linear-gradient(to right, rgb(154, 243, 163) 50%, rgb(12, 13, 11) 50%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+    transition: all .5s ease-out;
+
+}
+
+.btn2:hover {
+
+    background-position: left bottom;
+}

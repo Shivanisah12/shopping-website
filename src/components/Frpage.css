@@ -1,0 +1,36 @@
+.page-4 {
+    margin-top: 370px;
+    margin-left: 80px;
+    }
+    .page-4 h1{
+        font-weight: 400;
+        color: black;
+    }
+    .page-4 h6{
+        margin-top: 30px;
+        font-weight: 650;
+        color: rgb(15, 1, 1);
+    }
+    .page-4 p{
+        width: 450px;
+    }
+    .page-4 span{
+        color: green;
+        text-decoration: underline;
+    }
+    .page-4 button{
+        border: none;
+        background-color: transparent;
+        color: green;
+        text-decoration: underline;
+        font-weight: bold;
+    
+    }
+    .page-4 img{
+        display: flex;
+        float: right;
+        width: 580px;
+        margin-top: -410px;
+        height: 450px;
+        margin-right: 100px;
+    }

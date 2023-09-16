@@ -1,0 +1,31 @@
+
+.main-6 .h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 90px;
+    margin-bottom: 50px;
+    font-weight: bold;
+}
+.page-6{
+    display: flex;
+    justify-content: center;
+}
+.ic{
+    color: rgb(116, 189, 6);
+}
+.page-6 .p-1{
+margin-left: 81px;
+}
+.page-6 .p-2{
+    margin-left: 69px;
+    }
+.page-6 .p-3{
+    margin-left: 57px;
+    }
+.page-6b{
+    display: flex;
+    justify-content: center;
+}
+.page-6b .p-4{
+    margin-left: 57px;
+    }

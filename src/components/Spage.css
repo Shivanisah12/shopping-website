@@ -1,0 +1,35 @@
+.page-2 {
+margin-top: 190px;
+margin-left: 80px;
+}
+.page-2 h1{
+    font-weight: 400;
+    color: black;
+}
+.page-2 h6{
+    margin-top: 30px;
+    font-weight: 650;
+    color: rgb(15, 1, 1);
+}
+.page-2 p{
+    width: 450px;
+}
+.page-2 span{
+    color: green;
+    text-decoration: underline;
+}
+.page-2 button{
+    border: none;
+    background-color: transparent;
+    color: green;
+    text-decoration: underline;
+    font-weight: bold;
+
+}
+.page-2 img{
+    display: flex;
+    float: right;
+    margin-top: -400px;
+    height: 400px;
+    margin-right: 70px;
+}

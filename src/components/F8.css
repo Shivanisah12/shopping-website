@@ -1,0 +1,27 @@
+.page-8{
+    background-color: black;
+    color: white;
+    height: 190px;
+    margin-bottom: 60px;
+    margin-top: 80px;
+}
+.page-8 h4{
+    margin-left: 483px;
+}
+.inp { 
+    height: 50px;
+    width: 300px;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-left: 450px;
+    border: none;
+}
+.btn-1{
+height: 50px;
+    width: 130px;
+    border-radius: 5px;
+    border: none;
+    margin-left:  20px;
+    background-color: rgb(202, 245, 137); 
+    font-weight: bold;
+}
